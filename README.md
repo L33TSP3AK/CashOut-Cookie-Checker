@@ -15,21 +15,15 @@ This script is part of the CashOut Cookie Checker project, which works in conjun
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/L33TSP3AK/CashOut-Cookie-Checker.git
-   ```
+   ```git clone https://github.com/L33TSP3AK/CashOut-Cookie-Checker.git```
 
 2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+   ```pip install -r requirements.txt```
 
 ## Usage
 
 1. Run the script:
-   ```
-   python cookie_checker.py
-   ```
+   ```python cookie_checker.py```
 
 2. Use the GUI to:
    - Select configuration files
