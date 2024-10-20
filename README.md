@@ -3,6 +3,10 @@
 
 This script is part of the CashOut Cookie Checker project, which works in conjunction with the [Cashout Cookie Creator](https://github.com/L33TSP3AK/Cashout-Cookie-Creator). It provides functionality to check and process cookies based on configuration files.
 
+![image](https://github.com/user-attachments/assets/64b8d546-6b08-4d0c-9fa0-3656cba1f317)
+
+
+
 ## Features
 
 - Load and process multiple configuration files (.cash or .proj)
@@ -10,6 +14,8 @@ This script is part of the CashOut Cookie Checker project, which works in conjun
 - Multi-threaded cookie checking process
 - User-friendly GUI for selecting configs and managing the checking process
 - Progress tracking and logging of the checking process
+- 
+![image](https://github.com/user-attachments/assets/73b90bac-e888-41d3-81cc-f7092fa550b5)
 
 ## Installation
 
