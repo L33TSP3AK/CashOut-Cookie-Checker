@@ -1,5 +1,4 @@
 
-```markdown
 # CashOut Cookie Checker
 
 This script is part of the CashOut Cookie Checker project, which works in conjunction with the [Cashout Cookie Creator](https://github.com/L33TSP3AK/Cashout-Cookie-Creator). It provides functionality to check and process cookies based on configuration files.
