@@ -1,9 +1,9 @@
 [CA$H Settings]
-ProjectName=Paypal
+ProjectName=
 
 [Request Settings]
-Domain=paypal.com
-ResponseValide=We recognize you on this device, so no need to enter your password for this purchase
+Domain=
+ResponseValide=
 Header5=
 Header4=
 Header3=
@@ -14,27 +14,27 @@ AddHeader4=
 AddHeader3=
 AddHeader2=
 AddHeader1=
-X-Requested-With=XMLHttpRequest
-Referer=no-referrer
-ContentType=application/json
-Accept=*/*
-UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+X-Requested-With=
+Referer=
+ContentType=
+Accept=
+UserAgent=
 Body=
-URL=https://www.paypal.com/myaccount/summary?intl=0
-Method=GET
+URL=
+Method=
 
 [Parser Settings]
-ParsURL=https://www.paypal.com/myaccount/summary?intl=0
+ParsURL=
 Capture1Before=
 Capture1After=
 Capture2Before=
 Capture2After=
 Capture3Before=
 Capture3After=
-UseParser=False
-MethodParser=One
-UseURL=False
+UseParser=
+MethodParser=
+UseURL=
 
 [Security]
-CreatorID=Cashout
+CreatorID=
 Checksum=

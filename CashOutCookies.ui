@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <author>Cash_Out_Gang1337</author>
+ <author>Github.com/L33TSP3AK</author>
  <class>Ui_CashOut_Cookie_Checker</class>
  <widget class="QMainWindow" name="Ui_CashOut_Cookie_Checker">
   <property name="enabled">

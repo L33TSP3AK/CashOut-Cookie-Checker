@@ -486,7 +486,7 @@ class Ui_Ui_CashOut_Cookie_Checker(object):
 
     def retranslateUi(self, Ui_CashOut_Cookie_Checker):
         _translate = QtCore.QCoreApplication.translate
-        Ui_CashOut_Cookie_Checker.setWindowTitle(_translate("Ui_CashOut_Cookie_Checker", "DiamondSorter"))
+        Ui_CashOut_Cookie_Checker.setWindowTitle(_translate("Ui_CashOut_Cookie_Checker", "CashOut Cookie Checker"))
         self.load_cookies_button.setText(_translate("Ui_CashOut_Cookie_Checker", "Load Cookies"))
         self.save_results_directory_textedit.setPlaceholderText(_translate("Ui_CashOut_Cookie_Checker", "Save Results To Directory Path....."))
         self.save_results_button.setText(_translate("Ui_CashOut_Cookie_Checker", "Save Results"))
